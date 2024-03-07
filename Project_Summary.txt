@@ -1,0 +1,13 @@
+Project Summary (10pts)
+Utilizing a dataset sourced from Kaggle containing employee information and their HR status, our database application empowers employees to independently update their time-off requests. Additionally, it furnishes a PTO statistics dashboard, enabling HR administrators to conveniently oversee the time-off status at a glance.
+Project Description (35pts)
+•	Objectives: State as clearly as possible what you want to do. What problem do you solve etc?
+o	Our web application will serve the Human Resources department as a portal, enabling employees to request time off. We will establish a database where employees can submit their time-off requests, and HR administrators can oversee the status of all employees' time-off requests.
+•	Usefulness: State as clearly as possible why your database will be useful and how the interactive interface will be beneficial. Make sure to answer the following questions: Are there any similar or equivalent databases out here?  If so, what are they and how is yours different? Which user group is your database application targeting?
+o	We are targeting HR PTO administrators in medium to small-sized companies that may not have their own dedicated systems. Our database offers a PTO dashboard for administrators and easy access for employees to update and submit their time-off requests via a webpage. Our database can seamlessly integrate into the company's existing database infrastructure, providing comprehensive authority without limitations at no cost. This is particularly beneficial for existing databases that lack these functionalities and rely solely on integration with platforms like Google Calendar or Outlook Calendar.
+•	Dataset: Number or records will vary.  The number of columns will also vary and we suggest having at least ~10 so that you can normalize data and split it into tables as needed. You can use any existing online raw dataset
+o	Describe dataset origin (who collected, when, and for what purpose)
+o	Do not use any data without documentation and origin
+o	Do not use any generated data
+•	Sharing: Create a plan for sharing work (e.g. github repository) - provide a link. You should be able to link Google Docs to your Canvas project page if needed
+o	We created a sharing place at GitHub. https://github.com/junyeonlee/HR_PTO
